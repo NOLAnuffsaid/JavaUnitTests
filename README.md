@@ -2,5 +2,5 @@
 
 ## Dependencies
 
-Java 7
-Junit 4.12
+- Java 7
+- Junit 4.12
