@@ -1,4 +1,4 @@
-package com.widner.deckOfCardsTests;
+package com.widner.deckTests;
 
 import org.junit.Before;
 import org.junit.Ignore;
@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 //import org.hamcrest.core;
 
 
-import com.widner.deckOfCards.Deck;
+import com.widner.deck.Deck;
 /**
  * Created by wjmil_000 on 3/10/2016.
  */

@@ -1,4 +1,4 @@
-package com.widner.deckOfCards;
+package com.widner.deck;
 
 /**
  * Created by wjmil_000 on 3/12/2016.
